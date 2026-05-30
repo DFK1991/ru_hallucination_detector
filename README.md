@@ -6,10 +6,10 @@ This project focuses on detecting simple hallucinations in Russian text using li
 
 The following hallucination types are considered:
 
-* **clean** — fully supported statement
-* **num_flip** — numerical inconsistency
-* **entity_swap** — incorrect entity substitution
-* **negation** — meaning altered by negation
+* **Clean** — fully supported statement
+* **Number Flip** — numerical inconsistency
+* **Entity Swap** — incorrect entity substitution
+* **Negation Flip** — meaning altered by negation
 
 ---
 
