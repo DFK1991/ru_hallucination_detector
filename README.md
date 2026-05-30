@@ -126,4 +126,4 @@ Tested with:
 
 * The model is designed to be lightweight and efficient.
 * Numeric features are explicitly modeled to improve detection of number-related hallucinations.
-* The project is intended for educational and research purposes.
+* The project was developed for educational during online NLP course from V. Malykh.
